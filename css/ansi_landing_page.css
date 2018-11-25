@@ -1,0 +1,59 @@
+
+#button {
+
+  position:relative;
+  width:100px;
+  height:35px;
+  background-color: #ff5b4f;
+  border-radius: : 50px;
+  border-top-right-radius: 50px;
+border-top-left-radius: 50px;
+border-bottom-right-radius: 50px;
+border-bottom-left-radius: 50px;
+  
+  cursor:pointer;
+  font-size:16px;
+  text-align:center;
+  color:#fff;
+  left: 40%;
+  top: 50px;
+}
+.h{color: red;
+
+  padding: 5px 0 5px 4px;
+  display: inline-block;
+}
+.b{color: red;
+  padding: 1px 0 1px 1px;
+  display: inline-block;}
+
+  .shoe input[type="submit"]
+{width: 260px;position: absolute;
+  top: -18px; left: 230px;
+height: 65px;
+border: none;
+background-color:   #CD413E;
+font-size: 23px;
+ border-radius: : 27px;
+  border-top-right-radius: 27px;
+border-top-left-radius: 27px;
+border-bottom-right-radius: 27px;
+border-bottom-left-radius: 27px;
+color: white;
+}
+
+.shoe1 input[type="submit"]{width: 260px;position: absolute;
+  top: -10px; left: 230px;
+height: 65px;
+border: none;
+background-color:   #CD413E;
+font-size: 23px;
+ border-radius: : 27px;
+  border-top-right-radius: 27px;
+border-top-left-radius: 27px;
+border-bottom-right-radius: 27px;
+border-bottom-left-radius: 27px;
+color: white;
+
+}
+

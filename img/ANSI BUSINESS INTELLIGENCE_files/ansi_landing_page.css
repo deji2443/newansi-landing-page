@@ -1,0 +1,37 @@
+
+.bola{position:relative;
+top: -45%;
+left: 90%;}
+#button {
+  position:relative;
+  width:100px;
+  height:40px;
+  background-color: #ff5b4f;
+  border-radius: : 27px;
+  border-top-right-radius: 27px;
+border-top-left-radius: 27px;
+border-bottom-right-radius: 27px;
+border-bottom-left-radius: 27px;
+  margin-top: 2em;
+  padding: 1em 1.5em;
+  margin-top: 1em;
+  margin-right: 1.5em;
+  margin-bottom: 1em;
+  margin-left: 1.5em;
+  border-color:#8b9dc3 #2f477a #29447e #1a356e;
+  -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, .1);
+  cursor:pointer;
+  font-size:11px;
+  font-weight:bold;
+  text-align:center;
+  color:#fff;
+}
+.h{color: red;
+
+  padding: 5px 0 5px 4px;
+  display: inline-block;
+}
+.b{color: red;
+  padding: 1px 0 1px 1px;
+  display: inline-block;}
+ 
